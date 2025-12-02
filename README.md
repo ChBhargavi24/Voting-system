@@ -69,8 +69,4 @@ Wrong password! Access denied.
 6. Exit
 Choose an option: 6
 ERROR!
-Traceback (most recent call last):
-  File "<main.py>", line 200, in <module>
-  File "<main.py>", line 187, in run_voting
-  File "<main.py>", line 11, in save_data
-PermissionError: [Errno 13] Permission denied: 'voting_data.json'
+
